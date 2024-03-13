@@ -6,7 +6,7 @@
 <details><summary>Example Usage</summary>
 
  ```
-Can Aliens exist on Earth?
+Can aliens exist on Earth?
 
 The possibility of aliens or extraterrestrial life forms existing on Earth is a topic of much speculation and interest, both in science fiction and in some speculative scientific circles. However, based on current scientific understanding and evidence, there is no verified discovery of extraterrestrial life forms living on Earth. Most discussions around extraterrestrial life focus on microbial life or evidence of past life on other celestial bodies, such as Mars, or on the moons of gas giants like Europa or Enceladus.
 
