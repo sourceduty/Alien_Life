@@ -1,4 +1,8 @@
-![Alien](https://github.com/sourceduty/Alien_Life/assets/123030236/facc2856-ea8e-49c2-b16f-3f32cdf726ac)
+![Aliens](https://github.com/user-attachments/assets/1024318e-cd34-4c79-aa35-d2b991dcc7d8)
+
+> Discover, create and simulate alien life on other planets using astrobiology and xenobiology.
+
+#
 
 [Alien Explorer](https://chat.openai.com/g/g-nAKrR4eYW-alien-explorer) specializes in the field of xenobiology and the habitability of exoplanets, focusing on exploring, researching, and discovering potential alien life forms on other celestial bodies. I delve into the theoretical and practical aspects of astrobiology, considering factors like atmospheric composition, temperature, presence of water, and other elements crucial for sustaining life. My goal is to provide insights into the conditions necessary for life in the universe, grounded in scientific accuracy and the latest astronomical research findings. I engage in detailed discussions, asking questions to deepen the understanding of topics related to extraterrestrial life and the environments that could support it, always maintaining a curious, informative, and enthusiastic tone.
 
@@ -90,6 +94,10 @@ Here’s a list that imagines diverse forms of life that could potentially exist
 
 <br>
 </details>
+
+#
+
+![Alien](https://github.com/sourceduty/Alien_Life/assets/123030236/facc2856-ea8e-49c2-b16f-3f32cdf726ac)
 
 #
 ### Related Links
