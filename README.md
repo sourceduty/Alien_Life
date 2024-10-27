@@ -1,4 +1,4 @@
-![Aliens](https://github.com/user-attachments/assets/1024318e-cd34-4c79-aa35-d2b991dcc7d8)
+![UFO](https://github.com/user-attachments/assets/4fc16042-f087-49c5-81ac-9eb064446bfa)
 
 > Discover, create and simulate alien life on other planets using astrobiology and xenobiology.
 
